@@ -21,3 +21,6 @@ https://platform.openai.com/docs/guides/gpt/function-calling
 # Prompt desgin for youth therapist Bot
 Based the above materials, you can start to write your own prompt to make the Bot behave like a real therapist. 
 
+# Useful links:
+  - https://cookbook.openai.com/examples/how_to_format_inputs_to_chatgpt_models
+
