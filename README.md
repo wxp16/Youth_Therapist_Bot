@@ -10,6 +10,8 @@ Develop a Large Language Model(LLM) based youth therapist bot
   check [here](https://github.com/wxp16/python_env_setup)
 
 # Openai models and API learning
+- OpenAI Chat Models: [GPT3.5](https://platform.openai.com/docs/models/gpt-3-5) and [GPT4](https://platform.openai.com/docs/models/gpt-4)
+- [OpenAI available models](https://platform.openai.com/docs/models)
 - Read this article to understand Openai GPT models: 
 https://platform.openai.com/docs/guides/gpt/function-calling
 - Take this free short course: ChatGPT Prompt Engineering for Developers: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/ (This course uses jupyter notebook to run python code, if you want to run the exmaple, pls let me know, I can wrap this in another docuemnt)
@@ -22,8 +24,6 @@ https://platform.openai.com/docs/guides/gpt/function-calling
 Based the above materials, you can start to write your own prompt to make the Bot behave like a real therapist. 
 
 # Useful links:
-  - OpenAI Chat Models: [GPT3.5](https://platform.openai.com/docs/models/gpt-3-5) and [GPT4](https://platform.openai.com/docs/models/gpt-4)
-  - [OpenAI available models](https://platform.openai.com/docs/models)
   - [How to format inputs to ChatGPT models
 ](https://cookbook.openai.com/examples/how_to_format_inputs_to_chatgpt_models)
 
